@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "S04BZESK2DTLFSN"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "S04BZESK2DTLFSN")
+        (spec "default")
+    )
+)

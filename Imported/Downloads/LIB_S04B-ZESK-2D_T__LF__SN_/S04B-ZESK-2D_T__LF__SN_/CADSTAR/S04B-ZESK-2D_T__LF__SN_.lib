@@ -1,0 +1,16 @@
+.S04B-ZESK-2D_T__LF__SN_ :1 ;CONN HEADER R/A 4POS 1.5MM
+S04BZESK2DTLFSN
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 6
+*DFN S04B-ZESK-2D_T__LF__SN_
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (JST (JAPAN SOLDERLESS TERMINALS))
+~!Manufacturer_Part_Number (S04B-ZESK-2D(T)(LF)(SN))
+~!Link Datasheet (-)
+~!Height (6.3mm)
+~!3D_Model (S04B-ZESK-2D_T__LF__SN_)
+S04B-ZESK-2D_T__LF__SN_
+1.1!U 2.1!U 3.1!U 4.1!U 

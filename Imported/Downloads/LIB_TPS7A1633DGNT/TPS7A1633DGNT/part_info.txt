@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS7A1633DGNT
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=2.1
+Released=2017-02-27 09:55:52
+Downloaded=2025-08-22 11:33:40
+3D=Y

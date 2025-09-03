@@ -1,0 +1,9 @@
+Manufacturer=JST (JAPAN SOLDERLESS TERMINALS)
+PartNumber=S04B-ZESK-2D(T)(LF)(SN)
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=1.3
+Released=2021-01-27 10:41:46
+Downloaded=2025-08-21 17:30:04
+3D=Y
