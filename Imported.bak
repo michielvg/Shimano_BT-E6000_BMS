@@ -2028,7 +2028,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SOP65P490X110-9N"
+		(property "Footprint" "Imported:SOP65P490X110-9N"
 			(at 31.75 -94.92 0)
 			(effects
 				(font
