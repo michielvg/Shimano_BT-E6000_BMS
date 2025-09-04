@@ -17,8 +17,10 @@ TX Pin on charger provides 3.3V when connected to Battery RX pin.
 6. MCU initializes, but before any communication PIN19 has to go high to take over triggering Q024.
 
 IC003 is not constantly powered.
+OR
+IC003 is constantly powered, but 3.3V on RX is for low voltage charging and additionally triggers 
 
-###IC003
+### IC003
 
 | PIN | DIRECTION | NOTE |
 |--|--|--|
