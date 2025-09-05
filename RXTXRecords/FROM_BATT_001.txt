@@ -1,0 +1,41 @@
+h00 h80 h70 h35 hDC h00 hC2 h22 h02 hA1 h5E h64 h0C hAC h85 hC6 hFC h95 h6D h2F h90 h0E hC3 h64 hF1 
+h00 h83 hA2 h02 h9F h01 hA9 h01 h81 h05 h00 h28 h00 h88 h00 hA1 h40 h01 hB5 h96 
+h00 h80 h11 h04 h02 h00 h00 h00 h9F hA3 h20 h06 h20 h1A h18 h8D h05 h00 h00 h00 h00 h00 hF3 hFF h80 h60 h11 h04 h03 h00 
+h00 h80 h28 hA3 h20 h06 h20 h1A hB4 hC4 h05 h00 h00 
+h00 h80 h80 h3E 
+
+h00 h82 h16 h88 h03 h00 h00 h00 hD2 hA1 h17 hB2 h81 h1A h18 h1B h8C h0A h00 h00 h00 h00 hF0 h87 
+h00 h83 h16 h10 h80 h20 h00 h00 hE4 hA1 h76 h90 h2B hD2 h18 h1B h5C h4E h00 h00 h00 h00 h20 h70 
+h00 h80 h16 h90 h03 h00 h00 h00 hF2 hA1 hBA hE2 h81 h1A h18 h1B h5C hA6 h00 h00 h00 h00 h5D h97 
+h00 h81 h16 h10 h00 h20 h00 h00 hF8 hA1 h7C h80 h05 hD2 h18 h1B h5C h4E h80 h00 h00 h00 hFC h0A 
+h00 h82 h8A h04 h03 h00 h00 h00 h88 h34 h81 h60 h20 h1A h18 h8B hD5 h01 h00 h00 h00 h00 hAF hEB 
+h00 h83 h16 h10 h00 h83 h00 h00 h08 hA2 h7E h20 hB0 hD2 h18 h1B h5C h4E h80 h00 h00 h00 hB2 hF0 
+h00 h80 h16 h10 h00 h03 h80 h00 h14 hA2 h80 h20 h62 hD2 h18 h1B h5C h4D 
+h00 h80 h00 h00 h41 h9D h00 h60 h11 h04 h03 h00 
+h00 h80 h91 h03 h20 h64 h20 h1A h8C h23 hE5 h01 h00 h00 h00 h84 hD9 h00 h30 h11 h04 h03 h00 
+h00 h80 h24 h03 h20 h64 h20 h1A h8C h23 hD5 h01 h00 h00 h00 hF1 h68 
+h00 h83 h16 h10 h03 h00 h00 h00 h25 hA2 hC4 h32 h81 h1A h18 h1B h5C hA6 h00 h00 h00 h00 hA6 hEE 
+h00 h80 h16 h10 h00 h83 h00 h00 h27 hA2 h84 h20 hB4 hD2 h18 h1B h5C h4D h80 h00 h00 h00 h07 h16 
+h00 h81 h16 h10 h00 h83 h00 h00 h2A hA2 h84 h20 hB2 hD2 h18 h1B h5C h4E h00 h00 h00 h00 hA9 hBA h00 hC0 h11 h04 h03 h00 
+h00 h80 h26 h34 h18 h52 h81 h1A h88 hC4 hD5 h01 h00 h00 h00 h14 hC4 
+h00 h83 h16 h10 h80 h20 h00 h00 h37 hA2 h88 h52 h81 h1A h18 h1C h5C hA6 h00 h00 h00 h00 h51 hD4 
+h00 h80 h16 h10 h00 h03 h00 h80 h35 hA2 h86 h20 h6A h20 h8C hC4 hC4 hD5 h01 
+h00 h80 h00 hDF hC0 h00 hC0 h11 h04 h03 h00 h00 h00 h27 h34 h18 h62 h81 h1A h88 hC4 hE5 h01 h00 h00 h00 hAC h72 
+h00 h82 h11 h04 h03 h00 h00 h00 h9C h34 h0C h52 h81 h1A h18 hC4 hD5 h01 h00 h00 
+h00 h80 h63 hD2 
+h00 h83 h16 h10 h00 h81 h00 h00 h3D hA2 h88 h80 h2D hD2 h18 h1C h5C h4E h80 h00 h00 h00 hA4 h90 h00 hC0 h11 h04 h03 h00 h00 h00 h9E h34 h0C h62 h81 h1A h18 hC4 hD5 h01 h00 h00 
+h00 h80 h7E hFF 
+h00 h81 h16 h88 h03 h00 h00 h00 h45 hA2 h31 h62 h81 h1A h18 h1C hAC h0A h00 h00 h00 h00 h7A hF8 
+h00 h82 h16 h10 h00 h03 h80 h00 h49 hA2 h8A h20 h6E h90 h23 hC4 hC4 hD5 h01 h00 h00 h00 hD6 h6B 
+h00 h83 h86 h04 h03 h00 h00 h00 h49 hD1 h31 h72 h81 h1A h18 h9C hE5 h01 h00 h00 h00 h00 hF7 hFE h80 h16 h10 h00 h03 h00 
+h00 h80 h4A h53 h20 h70 h20 h9A hC4 hC4 hD5 h01 h00 
+h00 h80 hF4 hF9 
+h00 h81 h16 h04 h03 h00 h00 h00 h4E hC2 h31 h72 h81 h1A h18 h1C hAE h0A h00 h00 h00 h00 hA4 hFE 
+h00 h82 h16 h10 h00 h81 h00 h00 h57 hA2 h8E h80 h81 h1A h18 h1C h5C h4D h80 h00 h00 h00 h89 h4D 
+h00 h83 h16 h10 h00 h03 h80 h00 h50 hA2 h8E h20 hAE hD2 h18 h1C h5C h4E h00 h80 h00 h00 h0A hB0 
+h00 h80 h8A h04 h03 h00 h00 h00 h17 h34 h0C h82 h81 h1A h18 h8C hE5 h01 h00 h00 h00 h00 hDD 
+h00 h81 h16 h10 h80 h20 h00 h00 h57 hA2 h8E h82 h81 h1A h18 h1C h5C hA5 h00 h00 h00 h00 h45 hA0 h80 h30 h11 h04 h03 h00 h00 h5B hA2 h90 h20 h70 h20 h8A hC4 hC4 hE5 h01 h00 h00 h00 h8B h0E 
+h00 h83 h16 h10 h00 h03 h00 h00 h5C hA2 h8E h20 hB0 hD2 h18 h1C h5C h4D h00 h00 h00 h00 h28 hDC 
+h00 h80 h16 h80 h03 h00 h00 h00 hD0 hA0 h02 h12 h02 hD2 h18 h1C h8C h20 h00 h00 h00 h00 hCB hC8 
+
+h00 

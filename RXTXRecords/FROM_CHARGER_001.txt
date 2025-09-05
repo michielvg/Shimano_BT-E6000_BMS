@@ -1,0 +1,55 @@
+h00 prefix?
+hxx counter/command?
+hxx package length
+hxx hxx unknown
+hxx * <package length> data
+
+h00 h41 h00 hF9 h50 
+h00 h83 h11 h30 h02 h01 h9E hBA h9E hBA h12 h3E h12 h3E hBB hC7 hBB hC7 h57 h06 h58 h13
+h00 h03 h0B h31 h9F h01 hA9 h01 h01 h00 h02 h00 h1F h00 h05 h7F 
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C
+h00 h01 h05 h10 h00 h00 h00 h80 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C hFC 		??? noise?
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h01 h05 h10 h00 h00 h80 h00 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h83 h05 h18 h00 h00 h00 h00 hD9 h84 
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+
+h00 h00 h05 h10 h00 h00 h00 h80 hB7 h2C 
+h00 h01 h05 h10 h80 h80 h00 h00 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h02 h05 h98 h00 h00 h00 h00 h0C h1B 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+
+<<UNPLUGGED CHARGER>>
+
+hFF hFF hFF hFF hFF hFB hF7 hDD hFA hFF hEB h7B h0C h02 h96 hC6 h02 h02 h28 h00 h00 h00 

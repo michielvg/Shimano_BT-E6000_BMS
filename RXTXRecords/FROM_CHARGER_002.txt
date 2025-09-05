@@ -1,0 +1,133 @@
+
+pp pp ll xx ?? nn .. nn cc cc
+
+prefix
+      length
+         common between batt and charger
+
+               nn * length
+                        crc checksum
+
+=== RECORDING ===
+
+h00 h41 h00 hF9 h50 																				HEADER
+
+h00 h02 h11 h30 h02 h01 h9E h9E h9E h9F hF6 hF6 hF6 hF6 h9F h9F h9F h9F hD0 h08 hB8 h50 			h30 pos 4 is same as from battery
+h00 h03 h0B h31 h9F h01 hA9 h01 h01 h00 h02 h00 h1F h00 h05 h7F 									h31 pos 4 is same as from battery
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h03 h05 h10 h00 h00 h00 h00 hF9 h84 
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+
+<<UNPLUGGED CHARGER>>
+
+hFF hFF hFF hFF hFF hFF hFF hFF hFF hFF hFF hFF hFF hFF hFF hFF hFF hFF hEF hFB hFF hF7 hFA hFB hBF h7B h15 h83 h23 h4D hC5 hA2 h20 h40 h01 h46 h00 h00 h00 h04 h00 h00 h00 h08 h80 h00 h01 h00 h00 h00 h00 h00 h00 h00 h00 h00 h00 h00 h00 h00 h00 
+
+=== END RECORDING ===
+
+====== GROUPED PER PREFIX ======
+
+== h00 h00 ==
+00 00 05 10 00 00 00 00 B7 2C
+0000051000000000B72C
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+
+== h00 h01 ==
+00 01 05 10 00 00 00 00 62 B3
+000105100000000062B3
+
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+
+== h00 h02 ==
+00 02 05 10 00 00 00 00 0C
+00020510000000000C1B
+
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+
+== h00 h03 ==
+00 03 05 10 00 00 00 00 D9
+0003051000000000D984
+
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+h00 h03 h05 h10 h00 h00 h00 h00 hF9 h84 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+
+======
+
+Using CRC reveng to find CRC calculation
+
+0002113002019E9E9E9FF6F6F6F69F9F9F9FD008B850
+00030B319F01A901010002001F00057F
+
+reveng -w 16 -p 1021 -x 0 -s 0002113002019E9E9E9FF6F6F6F69F9F9F9FD008B850
+width=16  poly=0x1021  init=0xd714  refin=true  refout=true  xorout=0x0000  check=0xc685  residue=0x0000  name=(none)
+
+reveng -w 16 -p 1021 -x 0 -s 00030B319F01A901010002001F00057F
+width=16  poly=0x1021  init=0xeea9  refin=true  refout=true  xorout=0x0000  check=0x215e  residue=0x0000  name=(none)
+
+reveng -w 16 -s 0000051000000000B72C 000105100000000062B3 00020510000000000C1B 0003051000000000D984
+width=16  poly=0x1021  init=0x8683  refin=true  refout=true  xorout=0x0000  check=0x5282  residue=0x0000  name=(none)
+
+======
+

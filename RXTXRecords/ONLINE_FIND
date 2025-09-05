@@ -1,0 +1,30 @@
+Bike recording found here: https://github.com/gregyedlik/BT-E60xx/blob/main/startup_pickle
+
+
+h00 h00 
+
+h00 h40 h00 h21 h49 
+
+h00 h01 h11 h30 h03 h02 h00 h00 h3d h83 h35 he9 h97 h51 h3d h83 h35 he9 ha9 h04 h6d h27 
+h00 h02 h01 h11 ha4 h6b 
+h00 h03 h01 h12 he3 h03 
+
+h00 h00 h05 h10 h02 h03 h00 h00 ha5 hfa 
+h00 h01 h05 h10 h03 h03 h00 h00 hcb h79 
+h00 h02 h07 h32 h00 h01 h0c h12 h08 h20 h7d h14 
+h00 h03 h05 h10 h03 h01 h00 h00 hc8 hfb 
+
+h00 h00 h05 h10 h03 h01 h00 h00 ha6 h53 
+h00 h01 h05 h10 h03 h01 h00 h00 h73 hcc 
+h00 h02 h05 h10 h03 h01 h00 h00 h1d h64 
+
+h00
+
+
+
+reveng -w 16 -s 0000051002030000a5fa 0001051003030000cb79 0003051003010000c8fb 0000051003010000a653 000105100301000073cc 00020510030100001d64 
+
+width=16  poly=0x1021  init=0x8683  refin=true  refout=true  xorout=0x0000  check=0x5282  residue=0x0000  name=(none)
+Confirms poly and init value for battery RX
+
+reveng -w 16 -s 0002073200010c1208207d14

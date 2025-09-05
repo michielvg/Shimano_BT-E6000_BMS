@@ -1,0 +1,130 @@
+# Upping the sampling rate gave much cleaner data. 001 can be ignored. (the h16 length proves to be right tho :) )
+
+h00 hC1 h00 h35 hDC 																							HEADER
+
+h00 h82 h12 h30 h00 h54 h33 h81 h44 h83 h53 h92 h0B h47 hC2 hEF h13 hF5 h3B hC7 hC5 h35 hAE 
+h00 h83 h12 h31 h00 h9F h01 hA9 h01 h01 h00 h05 h00 h28 h00 h88 h00 h43 h01 h78 h00 hB5 h96 
+
+h00 h80 h16 h10 h00 h02 h00 h00 h00 hFD h9F h08 h20 hFA h1F h18 h18 h18 h5C h00 h00 h00 h00 h00 h00 h53 h09 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 hFE h9F h08 h20 hFA h1F h18 h18 h18 h5C h00 h00 h00 h00 h00 h00 h60 h17 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 h9B hA1 h68 h20 h4A h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 hF7 h45 
+h00 h83 h16 h10 h00 h03 h00 h00 h00 hB4 hA1 h6C h20 h50 h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 h03 h59 
+
+h00 h80 h16 h10 h00 h03 h00 h00 h00 hC2 hA1 h70 h20 h54 h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 h6C h3B 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 hCD hA1 h72 h20 h54 h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 h7B h7F 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 hD2 hA1 h74 h20 h56 h20 h18 h18 h18 h5C h4D h00 h00 h00 h00 h00 h13 hD1 
+h00 h83 h16 h10 h00 h03 h00 h00 h00 hE6 hA1 h84 h20 h58 h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 h39 hFF 
+
+h00 h80 h16 h10 h00 h03 h00 h00 h00 hEA hA1 h7A h20 h58 h20 h18 h18 h18 h5C h4D h00 h00 h00 h00 h00 hF9 h31 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 hF2 hA1 h7C h20 h5C h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 h97 h9C 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 hF4 hA1 h7C h20 h5A h20 h18 h18 h18 h5C h4D h00 h00 h00 h00 h00 hB8 h46 
+h00 h83 h16 h10 h00 h03 h00 h00 h00 hFD hA1 h7E h20 h5E h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 hF7 h37 
+
+h00 h80 h16 h10 h00 h03 h00 h00 h00 h06 hA2 h7E h20 h5E h20 h18 h18 h18 h5C h4D h00 h00 h00 h00 h00 h43 h9C 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 h09 hA2 h7E h20 h60 h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 hB4 h1A 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 h11 hA2 h80 h20 h62 h20 h18 h18 h18 h5D h4D h00 h00 h00 h00 h00 hF0 hC0 
+h00 h83 h16 h10 h00 h03 h00 h00 h00 h14 hA2 h80 h20 h62 h20 h18 h18 h18 h5D h4E h00 h00 h00 h00 h00 hBB h31 
+
+h00 h80 h16 h10 h00 h03 h00 h00 h00 h19 hA2 h84 h20 h62 h20 h18 h18 h18 h5D h4D h00 h00 h00 h00 h00 h05 hD5 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 h17 hA2 h84 h20 h60 h20 h18 h18 h18 h5D h4E h00 h00 h00 h00 h00 h10 hEC 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 h21 hA2 h84 h20 h66 h20 h18 h18 h18 h5D h4D h00 h00 h00 h00 h00 hB6 hDC 
+h00 h83 h16 h10 h00 h03 h00 h00 h00 h24 hA2 h84 h20 h66 h20 h18 h18 h18 h5D h4E h00 h00 h00 h00 h00 hFD h2D 
+
+h00 h80 h16 h10 h00 h03 h00 h00 h00 h27 hA2 h86 h20 h66 h20 h18 h18 h18 h5D h4D h00 h00 h00 h00 h00 hB9 hAB 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 h29 hA2 h86 h20 h66 h20 h18 h18 h19 h5D h4E h00 h00 h00 h00 h00 hA8 h11 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 h2F hA2 h86 h20 h68 h20 h18 h18 h19 h5D h4D h00 h00 h00 h00 h00 h6B hC1 
+h00 h83 h16 h10 h00 h03 h00 h00 h00 h31 hA2 h88 h20 h68 h20 h18 h18 h19 h5D h4E h00 h00 h00 h00 h00 h43 hBA 
+
+h00 h80 h16 h10 h00 h03 h00 h00 h00 h35 hA2 h86 h20 h6A h20 h18 h18 h19 h5D h4D h00 h00 h00 h00 h00 h25 h90 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 h3A hA2 h88 h20 h68 h20 h18 h18 h19 h5D h4E h00 h00 h00 h00 h00 h2E hC6 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 h3F hA2 h88 h20 h6A h20 h18 h18 h19 h5D h4D h00 h00 h00 h00 h00 h56 h83 
+h00 h83 h16 h10 h00 h03 h00 h00 h00 h40 hA2 h88 h20 h6C h20 h18 h18 h19 h5D h4E h00 h00 h00 h00 h00 hAE h4D 
+
+h00 h80 h16 h10 h00 h03 h00 h00 h00 h42 hA2 h8A h20 h6C h20 h18 h18 h19 h5D h4E h00 h00 h00 h00 h00 h87 h49 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 h44 hA2 h8A h20 h6A h20 h18 h18 h19 h5D h4D h00 h00 h00 h00 h00 h20 h25 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 h46 hA2 h8A h20 h6A h20 h18 h18 h19 h5D h4E h00 h00 h00 h00 h00 hA0 hD0 
+
+h00 
+
+<<UNPLUGGED CHARGER>> 
+
+====== GROUPED PER PREFIX ======
+
+== h00 h80 ==
+
+h00 h80 h16 h10 h00 h02 h00 h00 h00 hFD h9F h08 h20 hFA h1F h18 h18 h18 h5C h00 h00 h00 h00 h00 h00 h53 h09 
+h00 h80 h16 h10 h00 h03 h00 h00 h00 hC2 hA1 h70 h20 h54 h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 h6C h3B 
+h00 h80 h16 h10 h00 h03 h00 h00 h00 hEA hA1 h7A h20 h58 h20 h18 h18 h18 h5C h4D h00 h00 h00 h00 h00 hF9 h31 
+h00 h80 h16 h10 h00 h03 h00 h00 h00 h06 hA2 h7E h20 h5E h20 h18 h18 h18 h5C h4D h00 h00 h00 h00 h00 h43 h9C 
+h00 h80 h16 h10 h00 h03 h00 h00 h00 h19 hA2 h84 h20 h62 h20 h18 h18 h18 h5D h4D h00 h00 h00 h00 h00 h05 hD5 
+h00 h80 h16 h10 h00 h03 h00 h00 h00 h27 hA2 h86 h20 h66 h20 h18 h18 h18 h5D h4D h00 h00 h00 h00 h00 hB9 hAB 
+h00 h80 h16 h10 h00 h03 h00 h00 h00 h35 hA2 h86 h20 h6A h20 h18 h18 h19 h5D h4D h00 h00 h00 h00 h00 h25 h90 
+h00 h80 h16 h10 h00 h03 h00 h00 h00 h42 hA2 h8A h20 h6C h20 h18 h18 h19 h5D h4E h00 h00 h00 h00 h00 h87 h49 
+
+== h00 h81 ==
+
+h00 h81 h16 h10 h00 h03 h00 h00 h00 hFE h9F h08 h20 hFA h1F h18 h18 h18 h5C h00 h00 h00 h00 h00 h00 h60 h17 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 hCD hA1 h72 h20 h54 h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 h7B h7F 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 hF2 hA1 h7C h20 h5C h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 h97 h9C 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 h09 hA2 h7E h20 h60 h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 hB4 h1A 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 h17 hA2 h84 h20 h60 h20 h18 h18 h18 h5D h4E h00 h00 h00 h00 h00 h10 hEC 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 h29 hA2 h86 h20 h66 h20 h18 h18 h19 h5D h4E h00 h00 h00 h00 h00 hA8 h11 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 h3A hA2 h88 h20 h68 h20 h18 h18 h19 h5D h4E h00 h00 h00 h00 h00 h2E hC6 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 h44 hA2 h8A h20 h6A h20 h18 h18 h19 h5D h4D h00 h00 h00 h00 h00 h20 h25 
+
+== h00 h82 ==
+
+h00 h82 h16 h10 h00 h03 h00 h00 h00 h9B hA1 h68 h20 h4A h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 hF7 h45 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 hD2 hA1 h74 h20 h56 h20 h18 h18 h18 h5C h4D h00 h00 h00 h00 h00 h13 hD1 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 hF4 hA1 h7C h20 h5A h20 h18 h18 h18 h5C h4D h00 h00 h00 h00 h00 hB8 h46 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 h11 hA2 h80 h20 h62 h20 h18 h18 h18 h5D h4D h00 h00 h00 h00 h00 hF0 hC0 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 h21 hA2 h84 h20 h66 h20 h18 h18 h18 h5D h4D h00 h00 h00 h00 h00 hB6 hDC 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 h2F hA2 h86 h20 h68 h20 h18 h18 h19 h5D h4D h00 h00 h00 h00 h00 h6B hC1 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 h3F hA2 h88 h20 h6A h20 h18 h18 h19 h5D h4D h00 h00 h00 h00 h00 h56 h83 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 h46 hA2 h8A h20 h6A h20 h18 h18 h19 h5D h4E h00 h00 h00 h00 h00 hA0 hD0 
+
+== h00 h83 ==
+
+h00 h83 h16 h10 h00 h03 h00 h00 h00 hB4 hA1 h6C h20 h50 h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 h03 h59 
+h00 h83 h16 h10 h00 h03 h00 h00 h00 hE6 hA1 h84 h20 h58 h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 h39 hFF 
+h00 h83 h16 h10 h00 h03 h00 h00 h00 hFD hA1 h7E h20 h5E h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 hF7 h37 
+h00 h83 h16 h10 h00 h03 h00 h00 h00 h14 hA2 h80 h20 h62 h20 h18 h18 h18 h5D h4E h00 h00 h00 h00 h00 hBB h31 
+h00 h83 h16 h10 h00 h03 h00 h00 h00 h31 hA2 h88 h20 h68 h20 h18 h18 h19 h5D h4E h00 h00 h00 h00 h00 h43 hBA 
+h00 h83 h16 h10 h00 h03 h00 h00 h00 h40 hA2 h88 h20 h6C h20 h18 h18 h19 h5D h4E h00 h00 h00 h00 h00 hAE h4D 
+
+=======
+
+CRC reveng
+
+First two lines
+
+0082123000543381448353920B47C2EF13F53BC7C535AE
+00831231009F01A901010005002800880043017800B596
+
+reveng -w 16 -s 0082123000543381448353920B47C2EF13F53BC7C535AE 00831231009F01A901010005002800880043017800B596
+width=16  poly=0x1021  init=0x0746  refin=true  refout=true  xorout=0x0000  check=0x2c6a  residue=0x0000  name=(none)
+
+Rest of the lines
+
+008316100003000000B4A16C2050201818185C4E00000000000359
+008016100002000000FD9F0820FA1F1818185C0000000000005309 
+008016100003000000C2A1702054201818185C4E00000000006C3B 
+008016100003000000EAA17A2058201818185C4D0000000000F931 
+00801610000300000006A27E205E201818185C4D0000000000439C 
+
+reveng -w 16 -s 008016100002000000FD9F0820FA1F1818185C0000000000005309 008016100003000000C2A1702054201818185C4E00000000006C3B 008016100003000000EAA17A2058201818185C4D0000000000F931 00801610000300000006A27E205E201818185C4D0000000000439C
+width=16  poly=0x1021  init=0xf46e  refin=true  refout=true  xorout=0x0000  check=0xd550  residue=0x0000  name=(none)
+
+CRC is different for BATT and for CHARGER
+
+=====
+
+Gather to compare.
+
+BATT width=16  poly=0x1021  init=0x0746  refin=true  refout=true  xorout=0x0000  check=0x2c6a  residue=0x0000  name=(none)
+BATT width=16  poly=0x1021  init=0xf46e  refin=true  refout=true  xorout=0x0000  check=0xd550  residue=0x0000  name=(none)
+
+CHAR width=16  poly=0x1021  init=0xd714  refin=true  refout=true  xorout=0x0000  check=0xc685  residue=0x0000  name=(none)		???
+CHAR width=16  poly=0x1021  init=0xeea9  refin=true  refout=true  xorout=0x0000  check=0x215e  residue=0x0000  name=(none)		???
+CHAR width=16  poly=0x1021  init=0x8683  refin=true  refout=true  xorout=0x0000  check=0x5282  residue=0x0000  name=(none)
+
