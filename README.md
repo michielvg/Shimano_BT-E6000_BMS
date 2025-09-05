@@ -5,20 +5,33 @@ My old Shimano BT-E6000 battery gave up on me a couple of years back and I alway
 Right now I traced most of it, and the KiCAD project contains a messy schematic file. I hope to continue my work on it, but I wanted to put what I've done on here if I lose interest and perhaps to catch some of the mistakes I've made.
 
 ## Notes
+
+### Varia
+
+- Turning on the battery to check level with led lights on the side triggers a 3.3v pulse on BAT_TX
+- Pressing the button on the display unit puts a long pulse of around 6.4v on pins.
+- Pressing the button on the display unit puts a 6 second sequence on the BAT_RX pin.
+
+![SCOPE_BAT_RX](images/SCOPE_BAT_RX_DISPLAY_BTN_PRESS.png) 
+
 ### Possible Charging Initialization
 
 TX Pin on charger provides 3.3V when connected to Battery RX pin.
 
-1. RX at 3.3V to GND
+1. RX at 3.3V to GND ==> comfirmed
 2. Q024 (NPN) triggers
 3. Q002 (PNP) triggers
 4. Battery+ (BAT_P) or Pack+ (PACK_P) via common cathode diode (D004) provide 36v to LDO (IC002)
 5. LDO powers MCU (IC003)
 6. MCU initializes, but before any communication PIN19 has to go high to take over triggering Q024.
 
-IC003 is not constantly powered.
-OR
+IC003 is not constantly powered.  ==> most likely  
+OR  
 IC003 is constantly powered, but 3.3V on RX is for low voltage charging and additionally triggers 
+
+### Possible Battery Initialization
+
+RX at 3.3V to GND for 6 seconds, after first 280 ms 3 burts of UART message "h00 h40 h00 h21 h49" two next burst come 200ms after eachother.
 
 ### IC003
 
