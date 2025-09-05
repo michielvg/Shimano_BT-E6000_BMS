@@ -1,13 +1,37 @@
 # Shimano BT-E6000 BMS PCB
-
 My old Shimano BT-E6000 battery gave up on me a couple of years back and I always wanted to check out what killed it. I did not get around to do that and seeing a custom IC on the back of the PCB I got to tracing the hole pcb to try and figure out how it all ticks.
 
 Right now I traced most of it, and the KiCAD project contains a messy schematic file. I hope to continue my work on it, but I wanted to put what I've done on here if I lose interest and perhaps to catch some of the mistakes I've made.
 
 ## Notes
+### UART message format
+PP PP LL (DD .. DD) CC CC
+
+PP: prefix, perhaps device ID  
+LL: message/data length  
+DD: Optional data, according to LL  
+CC: Two byte CRC, calculated over all bytes before it.
+
+#### CRC
+**Common among messages:**  
+width=16  
+poly=0x1021  
+refin=true  
+refout=true  
+
+**Differences**  
+CRC initialization seems different. 
+
+| SOURCE | INIT |
+|--|--|
+| all device headers | 0x337d  |
+| charger | 0x8683 |
+| battery | 0xf46e |
+
+**!! First two messages after header seem to still use different CRCs !!**
+(see recordings for more information)
 
 ### Varia
-
 - Turning on the battery to check level with led lights on the side triggers a 3.3v pulse on BAT_TX
 - Pressing the button on the display unit puts a long pulse of around 6.4v on pins.
 - Pressing the button on the display unit puts a 6 second sequence on the BAT_RX pin.
@@ -73,7 +97,7 @@ RX at 3.3V to GND for 6 seconds, after first 280 ms 3 burts of UART message "h00
 | 34 | OUT | I2C Clock
 | 35 | IO | I2C Data
 | 36 |  | TP - Unclear
-| 37 |  | Enable led D011
+| 37 | OUT  | Enable led D011
 | 38 |  | NC
 | 39 |  | NC
 | 40 |  | NC
@@ -84,4 +108,4 @@ RX at 3.3V to GND for 6 seconds, after first 280 ms 3 burts of UART message "h00
 | 45 |  | NC
 | 46 |  | NC
 | 47 |  | NC
-| 48 |  | Enable led D010
+| 48 | OUT | Enable led D010

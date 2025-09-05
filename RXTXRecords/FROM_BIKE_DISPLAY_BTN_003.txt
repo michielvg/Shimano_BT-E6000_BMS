@@ -5,3 +5,14 @@ h00 h40 h00 h21 h49
 h00 h40 h00 h21 h49 
 
 h00 
+
+====
+
+0040002149		DISPLAU
+004100F950		CHARGER
+00C10035DC		BATTERY
+0040002149		ONLINE
+
+reveng -w 16 -p 1021 -x 0 -s 0040002149 004100F950 00C10035DC 0040002149
+
+width=16  poly=0x1021  init=0x337d  refin=true  refout=true  xorout=0x0000  check=0x5575  residue=0x0000  name=(none)
