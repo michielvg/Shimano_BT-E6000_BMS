@@ -5,9 +5,9 @@ Right now I traced most of it, and the KiCAD project contains a messy schematic 
 
 ## Notes
 ### UART message format
-PP PP LL (DD .. DD) CC CC
+PP LL (DD .. DD) CC CC
 
-PP: prefix, perhaps device ID  
+PP: header, with counter.  
 LL: message/data length  
 DD: Optional data, according to LL  
 CC: Two byte CRC, calculated over all bytes before it.
@@ -38,23 +38,13 @@ h00 h80 h16 h10 h00 h02 h00 h00 h00 hFD h9F h08 h20 hFA h1F h18 h18 h18 ***h5C**
 - 15th data byte could be Battery Level (in %)
 
 #### CRC
-**Common among messages:**  
-width=16  
-poly=0x1021  
-refin=true  
-refout=true  
+The first h00 is not part of the message! It possible could be the end of frame marker see the end of [BATT_RX_ON_BIKE_TIME_OUT_004.txt](RXTXRecords/BATT_RX_ON_BIKE_TIME_OUT_004.txt). The file ends with h00. I framed it wrong from the start.
 
-**Differences**  
-CRC initialization seems different. 
+Not including the first h00 gives me a consistent CRC "CRC-16/IBM-SDLC"
 
-| SOURCE | INIT | BINARY|
-|--|--|--|
-| all device headers | 0x337d  | 00110011 01111101
-| charger | 0x8683 | 10000110 10000011
-| battery | 0xf46e | 11110100 01101110
+It seems to fit even the headers! Should test a bit more, but the fact that it fits the headers is a big plus.
 
-**!! First two messages after header seem to still use different CRCs !!**
-(see recordings for more information)
+Great, that's one thing of the checklist.
 
 ### Varia
 - Turning on the battery to check level with led lights on the side triggers a 3.3v pulse on BAT_TX
