@@ -12,6 +12,31 @@ LL: message/data length
 DD: Optional data, according to LL  
 CC: Two byte CRC, calculated over all bytes before it.
 
+#### What if first non zero byte is a bitfield?
+
+FROM BATTERY:   
+hC1 => 11000001  
+h82 => 10000010
+
+FROM CHARGER:  
+h41 => 01000001  
+h02 => 00000010
+
+FROM DISPLAY:  
+h40 => 01000000  
+
+B H ? ? ? ? C C
+
+B: Battery flag ?  
+H: Header flag ?  
+C: 2 bit message counter ?  
+
+#### FROM BATTERY
+
+h00 h80 h16 h10 h00 h02 h00 h00 h00 hFD h9F h08 h20 hFA h1F h18 h18 h18 ***h5C*** h00 h00 h00 h00 h00 h00 h53 h09 
+
+- 15th data byte could be Battery Level (in %)
+
 #### CRC
 **Common among messages:**  
 width=16  
@@ -22,11 +47,11 @@ refout=true
 **Differences**  
 CRC initialization seems different. 
 
-| SOURCE | INIT |
-|--|--|
-| all device headers | 0x337d  |
-| charger | 0x8683 |
-| battery | 0xf46e |
+| SOURCE | INIT | BINARY|
+|--|--|--|
+| all device headers | 0x337d  | 00110011 01111101
+| charger | 0x8683 | 10000110 10000011
+| battery | 0xf46e | 11110100 01101110
 
 **!! First two messages after header seem to still use different CRCs !!**
 (see recordings for more information)

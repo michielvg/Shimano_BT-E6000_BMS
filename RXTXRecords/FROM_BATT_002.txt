@@ -128,3 +128,26 @@ CHAR width=16  poly=0x1021  init=0xd714  refin=true  refout=true  xorout=0x0000 
 CHAR width=16  poly=0x1021  init=0xeea9  refin=true  refout=true  xorout=0x0000  check=0x215e  residue=0x0000  name=(none)		???
 CHAR width=16  poly=0x1021  init=0x8683  refin=true  refout=true  xorout=0x0000  check=0x5282  residue=0x0000  name=(none)
 
+===== What if first non zero byte is a bitfield?
+
+FROM BATTERY: 	hC1 => 11000001
+				h82 => 10000010
+
+FROM CHARGER:	h41 => 01000001
+				h02 => 00000010
+
+FROM DISPLAY:	h40 => 01000000
+
+B H ? ? ? ? C C
+
+B: Battery flag 			?
+H: Header flag				?
+C: 2 bit message counter	?
+
+
+
+
+
+
+
+

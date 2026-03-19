@@ -1,12 +1,10 @@
 
-pp pp ll xx ?? nn .. nn cc cc
+pp pp ll (nn .. nn) cc cc
 
 prefix
       length
-         common between batt and charger
-
-               nn * length
-                        crc checksum
+          nn * length
+                    crc checksum
 
 === RECORDING ===
 

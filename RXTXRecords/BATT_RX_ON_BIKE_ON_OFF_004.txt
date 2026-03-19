@@ -1,0 +1,73 @@
+h00 
+h00 h40 h00 h21 h49 																			FROM INITIAL BUTTON PRESS
+
+h00 h01 h11 h30 h03 h02 h00 h00 hB2 hEB h51 h6E h67 h9D hB2 hEB h51 h6E hC1 h05 hC4 h53 
+h00 h02 h01 h11 hA4 h6B 
+h00 h03 h01 h12 hE3 h03 
+
+h00 h00 h05 h10 h02 h03 h00 h00 hA5 hFA 
+h00 h01 h05 h10 h03 h03 h00 h00 hCB h79 
+h00 h01 h05 h10 h03 h03 h00 h00 hCB h79 
+h00 h02 h07 h32 h19 h09 h05 h0D h1E h22 hFC hFD
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h02 h09 h00 h00 h0A h16 
+h00 h02 h01 h21 h27 h5A 
+
+h00 
+
+===== SECOND TRY ====
+
+h00 
+
+h00 h40 h00 h21 h49 
+
+h00 h01 h11 h30 h03 h02 h00 h00 hEC h52 h6F h68 h9E hB3 hEC h52 h6F h68 h80 h05 h7F hB8 
+h00 h02 h01 h11 hA4 h6B 
+h00 h03 h01 h12 hE3 h03 
+
+h00 h00 h05 h10 h02 h03 h00 h00 hA5 hFA 
+h00 h01 h05 h10 h03 h03 h00 h00 hCB h79 
+h00 h01 h05 h10 h03 h03 h00 h00 hCB h79 
+h00 h02 h07 h32 h19 h09 h05 h0D h2D h07 h99 h17
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h02 h09 h00 h00 h0A h16 
+h00 h02 h01 h21 h27 h5A 
+
+h00 
+
+=====
+
+ON BIKE: 	h00 h01 h11 h30 h03 h02 h00 h00 hB2 hEB h51 h6E h67 h9D hB2 hEB h51 h6E hC1 h05 hC4 h53 
+CHARGER:	h00 h02 h11 h30 h02 h01 h9E h9E h9E h9F hF6 hF6 hF6 hF6 h9F h9F h9F h9F hD0 h08 hB8 h50
+
+ON BIKE:	
+CHARGER:	h00 h03 h0B h31 h9F h01 hA9 h01 h01 h00 h02 h00 h1F h00 h05 h7F

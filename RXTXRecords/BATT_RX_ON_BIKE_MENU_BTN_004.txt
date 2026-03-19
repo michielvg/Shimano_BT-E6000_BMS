@@ -1,0 +1,25 @@
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h07 h32 h19 h09 h05 h0D h3B h00 h9D h39 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+
+====
+
+Menu button on display unit does not seem to do show on the BATT_RX line.
+

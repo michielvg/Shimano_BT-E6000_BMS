@@ -1,0 +1,538 @@
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h07 h32 h19 h09 h05 h0E h07 h00 h01 h52 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h07 h32 h19 h09 h05 h0E h08 h00 hCE h07 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h07 h32 h19 h09 h05 h0E h08 h00 h33 h4A 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h07 h32 h19 h09 h05 h0E h09 h00 hEC h85 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h07 h32 h19 h09 h05 h0E h09 h00 h11 hC8 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h07 h32 h19 h09 h05 h0E h0A h00 h7E h34 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h07 h32 h19 h09 h05 h0E h0A h00 h83 h79 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h07 h32 h19 h09 h05 h0E h0B h00 h5C hB6 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h1B h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h07 h32 h19 h09 h05 h0E h0B h00 hA1 hFB 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h07 h32 h19 h09 h05 h0E h0C h00 hAE h60 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h07 h32 h19 h09 h05 h0E h0C h00 h54 hFB 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h07 h32 h19 h09 h05 h0E h0D h00 h71 hAF 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h07 h32 h19 h09 h05 h0E h0D h00 h76 h79 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h03 h09 h00 h00 h0A h3D 
+
+h00 h00 h05 h10 h03 h09 h00 h00 h64 h95 
+h00 h01 h05 h10 h03 h09 h00 h00 hB1 h0A 
+h00 h02 h05 h10 h03 h09 h00 h00 hDF hA2 
+h00 h03 h05 h10 h02 h09 h00 h00 hB1 h21 
+
+h00 h00 h01 h21 h9F hEF 
+
+h00 
+
+=====
+
+Single byte message h21 ==> probably TURN OFF
+
+
+==== CRC
+
+5 length messages
+reveng -w 16 -s 00000510030900006495 00000510030900006495 0002051003090000DFA2 00030510030900000A3D 
+width=16  poly=0x1021  init=0x8683  refin=true  refout=true  xorout=0x0000  check=0x5282  residue=0x0000  name=(none)
+
+7 length messages
+reveng -w 16 -s 000107321909050E0D007679 000107321909050E0C00AE60 000207321909050E0D0071AF 000307321909050E0C0054FB
+width=16  poly=0x1021  init=0xd72d  refin=true  refout=true  xorout=0x0000  check=0x6d7d  residue=0x0000  name=(none)
+
+
+
+
+
+

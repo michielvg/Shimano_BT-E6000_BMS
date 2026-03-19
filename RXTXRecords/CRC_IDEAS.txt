@@ -1,0 +1,98 @@
+=== 0 byte length message ===
+
+h00 h40 h00 h21 h49
+h00 h41 h00 hF9 h50 
+h00 hC1 h00 h35 hDC 
+
+reveng -w 16 -p 1021 -s 0040002149 004100F950 00C10035DC 
+width=16  poly=0x1021  init=0x337d  refin=true  refout=true  xorout=0x0000  check=0x5575  residue=0x0000  name=(none)
+
+
+=== 1 byte length message ===
+
+h00 h02 h01 h11 hA4 h6B 
+h00 h03 h01 h12 hE3 h03
+h00 h02 h01 h21 h27 h5A 
+
+reveng -w 16 -p 1021 -s 00020111A46B 00030112E303 00020121275A 
+width=16  poly=0x1021  init=0x4a3b  refin=true  refout=true  xorout=0x0000  check=0x6d8d  residue=0x0000  name=(none)
+
+=== 5 byte length message ===
+
+h00 h00 h05 h10 h00 h00 h00 h00 hB7 h2C 
+h00 h01 h05 h10 h00 h00 h00 h00 h62 hB3 
+h00 h02 h05 h10 h00 h00 h00 h00 h0C h1B 
+h00 h03 h05 h10 h00 h00 h00 h00 hD9 h84 
+
+reveng -w 16 -p 1021 -s 0000051000000000B72C 000105100000000062B3 00020510000000000C1B 0003051000000000D984
+width=16  poly=0x1021  init=0x8683  refin=true  refout=true  xorout=0x0000  check=0x5282  residue=0x0000  name=(none)
+
+=== 7 byte length message ====
+
+h00 h02 h07 h32 h19 h09 h05 h0D h1E h22 hFC hFD
+h00 h02 h07 h32 h19 h09 h05 h0D h2D h07 h99 h17
+h00 h00 h07 h32 h19 h09 h05 h0D h3B h00 h9D h39 
+h00 h01 h07 h32 h19 h09 h05 h0E h0D h00 h76 h79 
+
+reveng -w 16 -p 1021 -s 000207321909050D1E22FCFD 000207321909050D2D079917 000007321909050D3B009D39 000107321909050E0D007679 
+width=16  poly=0x1021  init=0xd72d  refin=true  refout=true  xorout=0x0000  check=0x6d7d  residue=0x0000  name=(none)
+
+=== 17 byte length message ===
+
+h00 h01 h11 h30 h03 h02 h00 h00 hB2 hEB h51 h6E h67 h9D hB2 hEB h51 h6E hC1 h05 hC4 h53 
+h00 h01 h11 h30 h03 h02 h00 h00 hEC h52 h6F h68 h9E hB3 hEC h52 h6F h68 h80 h05 h7F hB8 
+h00 h01 h11 h30 h03 h02 h00 h00 h3d h83 h35 he9 h97 h51 h3d h83 h35 he9 ha9 h04 h6d h27 
+h00 h02 h11 h30 h02 h01 h9E h9E h9E h9F hF6 hF6 hF6 hF6 h9F h9F h9F h9F hD0 h08 hB8 h50
+
+reveng -w 16 -p 1021 -s 0001113003020000B2EB516E679DB2EB516EC105C453 0001113003020000EC526F689EB3EC526F6880057FB8 00011130030200003d8335e997513d8335e9a9046d27 0002113002019E9E9E9FF6F6F6F69F9F9F9FD008B850
+width=16  poly=0x1021  init=0xd714  refin=true  refout=true  xorout=0x0000  check=0xc685  residue=0x0000  name=(none)
+
+=== 18 bytes
+
+h00 h82 h12 h30 h00 h54 h33 h81 h44 h83 h53 h92 h0B h47 hC2 hEF h13 hF5 h3B hC7 hC5 h35 hAE 
+h00 h83 h12 h31 h00 h9F h01 hA9 h01 h01 h00 h05 h00 h28 h00 h88 h00 h43 h01 h78 h00 hB5 h96 
+
+reveng -w 16 -p 1021 -s 0082123000543381448353920B47C2EF13F53BC7C535AE 00831231009F01A901010005002800880043017800B596 
+width=16  poly=0x1021  init=0x0746  refin=true  refout=true  xorout=0x0000  check=0x2c6a  residue=0x0000  name=(none)
+
+
+=== 22 bytes
+
+h00 h80 h16 h10 h00 h02 h00 h00 h00 hFD h9F h08 h20 hFA h1F h18 h18 h18 h5C h00 h00 h00 h00 h00 h00 h53 h09 
+h00 h81 h16 h10 h00 h03 h00 h00 h00 hFE h9F h08 h20 hFA h1F h18 h18 h18 h5C h00 h00 h00 h00 h00 h00 h60 h17 
+h00 h82 h16 h10 h00 h03 h00 h00 h00 h9B hA1 h68 h20 h4A h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 hF7 h45 
+h00 h83 h16 h10 h00 h03 h00 h00 h00 hB4 hA1 h6C h20 h50 h20 h18 h18 h18 h5C h4E h00 h00 h00 h00 h00 h03 h59 
+
+reveng -w 16 -p 1021 -s 008016100002000000FD9F0820FA1F1818185C0000000000005309 008116100003000000FE9F0820FA1F1818185C0000000000006017 0082161000030000009BA168204A201818185C4E0000000000F745 008316100003000000B4A16C2050201818185C4E00000000000359 
+width=16  poly=0x1021  init=0xf46e  refin=true  refout=true  xorout=0x0000  check=0xd550  residue=0x0000  name=(none)
+
+==============
+
+
+
+
+==============
+
+Test to calculate CRCs
+
+reveng -l -w 16 -p 1021 -i 0xf46e -c 008016100002000000FD9F0820FA1F1818185C000000000000 008116100003000000FE9F0820FA1F1818185C000000000000 0082161000030000009BA168204A201818185C4E0000000000 008316100003000000B4A16C2050201818185C4E0000000000 
+
+==============
+
+01111101 00110011
+
+00111110 10011001
+00000101 11010011
+
+00111011 01001010
+
+
+
+
+
+
+
+
+
+
+

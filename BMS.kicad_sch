@@ -5800,7 +5800,7 @@
 		)
 		(uuid "9c0cd274-d883-4a19-9c7b-36b9b4606a5a")
 	)
-	(text "ENABLE DISCHARGE"
+	(text "DISABLE DISCHARGE"
 		(exclude_from_sim no)
 		(at 431.038 56.134 0)
 		(effects
@@ -5850,7 +5850,7 @@
 		)
 		(uuid "da6f2e35-bb0d-42e2-8601-edc36ce818e3")
 	)
-	(text "ENABLE CHARGE"
+	(text "DISABLE CHARGE"
 		(exclude_from_sim no)
 		(at 429.514 92.964 0)
 		(effects
@@ -9659,6 +9659,16 @@
 			(type default)
 		)
 		(uuid "5f25f854-4d5a-47c5-b2a8-bda0b932e361")
+	)
+	(wire
+		(pts
+			(xy -125.73 16.51) (xy -140.97 16.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fd7bd42-ef25-4c4d-bd4a-15ab4411d4ec")
 	)
 	(wire
 		(pts
@@ -14710,7 +14720,7 @@
 		)
 		(uuid "2324636c-8dae-48fe-a244-c4ea5971ab0c")
 	)
-	(label "CN002"
+	(label "CN001"
 		(at 303.53 -21.59 0)
 		(effects
 			(font
@@ -15040,7 +15050,7 @@
 		)
 		(uuid "592d8401-ce80-4dc1-b736-bc37f02cbe2f")
 	)
-	(label "CN002"
+	(label "CN001"
 		(at 303.53 39.37 0)
 		(effects
 			(font
@@ -15190,7 +15200,7 @@
 		)
 		(uuid "6c1df1c2-31c3-4d74-a785-3172daa04f8b")
 	)
-	(label "CN002"
+	(label "CN001"
 		(at 303.53 -1.27 0)
 		(effects
 			(font
@@ -15230,7 +15240,7 @@
 		)
 		(uuid "6f4f353d-a282-4f4a-8ed6-577cca1fdd6e")
 	)
-	(label "CN002"
+	(label "CN001"
 		(at 303.53 19.05 0)
 		(effects
 			(font
@@ -15280,7 +15290,17 @@
 		)
 		(uuid "74ac0e65-df4a-493b-98e4-42f85a3b2b5f")
 	)
-	(label "CN002"
+	(label "DSG_GATES"
+		(at -140.97 16.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7632b143-e265-4b92-b688-3eabc2a654f2")
+	)
+	(label "CN001"
 		(at 303.53 59.69 0)
 		(effects
 			(font
@@ -15800,16 +15820,6 @@
 		)
 		(uuid "bb739a53-7109-4b1e-89cf-2319c58e4adb")
 	)
-	(label "F_DSG"
-		(at 455.93 88.9 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bc0cf623-3538-4c59-ad91-46feec6da151")
-	)
 	(label "PACK_P"
 		(at 170.18 255.27 180)
 		(effects
@@ -16029,6 +16039,16 @@
 			(justify right bottom)
 		)
 		(uuid "e2a61053-3e27-419f-97a1-ea75200ca3f9")
+	)
+	(label "DSG_GATES"
+		(at 455.93 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e34aa765-4ea7-414f-893d-5367af439c4e")
 	)
 	(label "VREG1"
 		(at 91.44 -52.07 180)

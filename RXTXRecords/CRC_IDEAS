@@ -1,0 +1,12 @@
+=== 0 byte length message ===
+
+
+
+=== 1 byte length message ===
+
+h00 h02 h01 h11 hA4 h6B 
+h00 h03 h01 h12 hE3 h03
+h00 h02 h01 h21 h27 h5A 
+
+reveng -w 16 -s 00020111A46B 00030112E303 00020121275A 
+width=16  poly=0x1021  init=0x4a3b  refin=true  refout=true  xorout=0x0000  check=0x6d8d  residue=0x0000  name=(none)
