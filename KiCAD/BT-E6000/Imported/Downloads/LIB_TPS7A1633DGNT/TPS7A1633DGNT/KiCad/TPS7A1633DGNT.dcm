@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS7A1633DGNT
+D Texas Instruments TPS7A1633DGNT, LDO Voltage Regulator, 100mA, 3.3 V +/-2%, 3  60 Vin, 8-Pin MSOP
+K
+F http://www.ti.com/lit/ds/symlink/tps7a16.pdf
+$ENDCMP
+#
+#End Doc Library

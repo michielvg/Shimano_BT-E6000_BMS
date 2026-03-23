@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'S04B_ZESK_2D_T__LF__SN_'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "JST (JAPAN SOLDERLESS TERMINALS)", "S04B-ZESK-2D(T)(LF)(SN)" (!) = "", "S04BZESK2DTLFSN", "Other", "", "", "CONN HEADER R/A 4POS 1.5MM", "", "6.3 mm"
+END_PART
+
+END.
