@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS7A1633DGNT'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS7A1633DGNT" (!) = "", "SOP65P490X110-9N", "Small Outline Packages", "595-TPS7A1633DGNT", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7A1633DGNT?qs=KC2rBGieF4pkwFmfmKPfSg%3D%3D", "Texas Instruments TPS7A1633DGNT, LDO Voltage Regulator, 100mA, 3.3 V +/-2%, 3  60 Vin, 8-Pin MSOP", "http://www.ti.com/lit/ds/symlink/tps7a16.pdf", "1.1 mm"
+END_PART
+
+END.

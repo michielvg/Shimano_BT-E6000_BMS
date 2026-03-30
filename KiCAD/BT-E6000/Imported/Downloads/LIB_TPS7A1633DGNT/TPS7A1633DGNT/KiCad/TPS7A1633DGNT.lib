@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TPS7A1633DGNT
+#/418087/1189094/2.50/9/3/Integrated Circuit
+DEF TPS7A1633DGNT IC 0 30 Y Y 1 F N
+F0 "IC" 1250 300 50 H V L CNN
+F1 "TPS7A1633DGNT" 1250 200 50 H V L CNN
+F2 "SOP65P490X110-9N" 1250 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/tps7a16.pdf" 1250 0 50 H I L CNN
+F4 "Texas Instruments TPS7A1633DGNT, LDO Voltage Regulator, 100mA, 3.3 V +/-2%, 3  60 Vin, 8-Pin MSOP" 1250 -100 50 H I L CNN "Description"
+F5 "1.1" 1250 -200 50 H I L CNN "Height"
+F6 "595-TPS7A1633DGNT" 1250 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7A1633DGNT?qs=KC2rBGieF4pkwFmfmKPfSg%3D%3D" 1250 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1250 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TPS7A1633DGNT" 1250 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X OUT 1 0 0 200 R 50 50 0 0 P
+X FB/DNC 2 0 -100 200 R 50 50 0 0 P
+X PG 3 0 -200 200 R 50 50 0 0 P
+X GND 4 0 -300 200 R 50 50 0 0 P
+X EP 9 700 -800 200 U 50 50 0 0 P
+X IN 8 1400 0 200 L 50 50 0 0 P
+X DELAY 7 1400 -100 200 L 50 50 0 0 P
+X NC 6 1400 -200 200 L 50 50 0 0 N
+X EN 5 1400 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

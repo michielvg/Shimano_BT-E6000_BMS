@@ -1,0 +1,16 @@
+.TPS7A1633DGNT :1 ;Texas Instruments TPS7A1633DGNT, LDO Voltage Regulator, 100mA, 3.3 V +/-2%, 3  60 Vin, 8-Pin MSOP
+SOP65P490X110-9N
+*STM IC
+*NGS
+*PLB 1="OUT" 2="FB/DNC" 3="PG" 4="GND" 5="EN" 6="NC" 7="DELAY" 8="IN" 9="EP"
+*MXP 9
+*DFN TPS7A1633DGNT
+~!Mouser Part Number (595-TPS7A1633DGNT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7A1633DGNT?qs=KC2rBGieF4pkwFmfmKPfSg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS7A1633DGNT)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/tps7a16.pdf)
+~!Height (1.1mm)
+~!3D_Model (TPS7A1633DGNT)
+TPS7A1633DGNT
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "S04B-ZESK-2D_T__LF__SN_"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-01-27-10:41:46)
+    (mountForm default
+        (footprintRef "S04BZESK2DTLFSN")
+        (spec "System")
+    )
+)
