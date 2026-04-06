@@ -46,6 +46,14 @@ It seems to fit even the headers! Should test a bit more, but the fact that it f
 
 Great, that's one thing of the checklist.
 
+**cyberchef recipe**  
+
+>Find_/_Replace({'option':'Regex','string':'h'},'',true,false,true,false)
+>Fork('\\n','\\n',false)
+>From_Hex('Auto')
+>CRC_Checksum('CRC-16/IBM-SDLC',{'option':'Decimal','string':'0'},{'option':'Hex','string':'0'},{'option':'Hex','string':'0'},'True','True',{'option':'Hex','string':'0'})
+
+
 ### Varia
 - Turning on the battery to check level with led lights on the side triggers a 3.3v pulse on BAT_TX
 - Pressing the button on the display unit puts a long pulse of around 6.4v on pins.
@@ -64,9 +72,7 @@ TX Pin on charger provides 3.3V when connected to Battery RX pin.
 5. LDO powers MCU (IC003)
 6. MCU initializes, but before any communication PIN19 has to go high to take over triggering Q024.
 
-IC003 is not constantly powered.  ==> most likely  
-OR  
-IC003 is constantly powered, but 3.3V on RX is for low voltage charging and additionally triggers 
+IC003 is constantly powered, System can be bootstrapped by pulling RX high (3.3v)
 
 ### Possible Battery Initialization
 
