@@ -1,0 +1,58 @@
+Case_02 - Shimano BT-E6000
+2026-09-30 21:50:20
+Stan po LED 1+5 / otwarciu fabrycznego bezpiecznika i ok. 3 min ladowania przez amperomierz.
+Prad ladowania: ok. 4.3 A. Bezpiecznik samochodowy NIE byl jeszcze zalozony.
+
+UART: COM3 / 9600 8N1
+BYTE_DELAY=0.0025s RX_WAIT=0.12s
+
+DECODE 0x10:
+STATUS: 0x00
+STATE:  0x01
+PACK:   32.312-32.316 V
+SOC:    2 %
+TEMP:   21 / 21 / 21 C
+CELL MIN: 3.228 V
+CELL MAX: 3.234 V
+DELTA: 5-6 mV
+
+CMD 13 RX:
+00 83 20 13 00 00 01 01 00 01 02 00 04 09 0c ff 0b d6 00 d0 00 d9 00 00 00 00 00 00 00 00 00 00 00 00 00 30 a0
+
+CMD A0 RX:
+00 81 2b a0 00 00 00 00 a0 0c 9a 0c a0 0c 9e 0c a1 0c 9f 0c 9f 0c a1 0c 9e 0c 9e 0c 2c 01 f8 2a 02 00 d4 00 d2 00 d4 00 00 00 03 00 00 00 c3 03
+
+DECODE 0xA0:
+S01: 3.232 V
+S02: 3.226 V
+S03: 3.232 V
+S04: 3.230 V
+S05: 3.233 V
+S06: 3.231 V
+S07: 3.231 V
+S08: 3.233 V
+S09: 3.230 V
+S10: 3.230 V
+MIN: 3.226 V
+MAX: 3.233 V
+AVG: 3.231 V
+SUM: 32.308 V
+DELTA: 7 mV
+
+POZOSTALE RX:
+CMD 12: 00 82 0a 12 00 00 e1 00 00 50 10 0f 00 37 3f
+CMD 20: 00 80 03 20 00 00 d4 63
+CMD A6: 00 82 07 a6 46 00 21 7d 81 44 c7 a8
+CMD A7: 00 83 07 a7 6a 00 19 7d 81 44 51 67
+CMD AA: 00 80 03 aa 50 01 3c de
+CMD AB: 00 81 03 ab 03 01 3b 76
+CMD BB: 00 82 04 bb 00 00 00 e2 76
+CMD CB: 00 83 03 cb 00 00 1f 5e
+
+POROWNANIE:
+20:40 po recovery + 3 h rest: PACK 30.772 V / SOC 0% / DELTA 9 mV / STATUS 00 / STATE 00
+20:47 po LED 1+5:              PACK 30.761 V / SOC 0% / DELTA 9 mV / STATUS 00 / STATE 01
+21:50 po ~3 min przy 4.3 A:    PACK 32.308 V / SOC 2% / DELTA 7 mV / STATUS 00 / STATE 01
+
+Ramka 0x13 pozostala identyczna jak bezposrednio po zdarzeniu LED 1+5.
+Sekcje pozostaja bardzo dobrze wyrownane.

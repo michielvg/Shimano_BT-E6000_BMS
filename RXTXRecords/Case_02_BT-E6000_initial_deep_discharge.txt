@@ -1,0 +1,131 @@
+2026-09-30 17:13:41
+Case_02 - Shimano BT-E6000
+COM3 / 9600 8N1
+BYTE_DELAY=0.0025s  RX_WAIT=0.12s
+========================================================================
+
+Startup jak w oryginalnym write.py...
+000 RX: <BRAK>
+001 RX: 00 c0 00 ed c5 00 81 12 30 00 52 69 30 c6 6d da 8b ea 0a 3f 69 62 d7 64 f0 1e 4c 67
+002 RX: 00 82 09 11 00 46 00 09 03 00 00 64 ca 0f
+003 RX: 00 83 16 10 00 00 00 02 00 23 60 8e 13 de 12 15 15 15 00 00 00 00 00 00 00 ee 4f
+DECODE 0x10:
+  STATUS:   0x00
+  STATE:    0x00
+  PACK:     24.611 V
+  SOC:      0 %
+  TEMP:     21 C / 21 C / 21 C
+  CELL MIN: 2.415 V
+  CELL MAX: 2.503 V
+  DELTA:    88 mV
+004 RX: 00 80 16 10 00 00 00 02 00 21 60 8e 13 e0 12 15 15 15 00 00 00 00 00 00 00 5a 85
+DECODE 0x10:
+  STATUS:   0x00
+  STATE:    0x00
+  PACK:     24.609 V
+  SOC:      0 %
+  TEMP:     21 C / 21 C / 21 C
+  CELL MIN: 2.416 V
+  CELL MAX: 2.503 V
+  DELTA:    87 mV
+005 RX: 00 81 16 10 00 00 00 02 00 20 60 8e 13 e0 12 15 15 15 00 00 00 00 00 00 00 0e 50
+DECODE 0x10:
+  STATUS:   0x00
+  STATE:    0x00
+  PACK:     24.608 V
+  SOC:      0 %
+  TEMP:     21 C / 21 C / 21 C
+  CELL MIN: 2.416 V
+  CELL MAX: 2.503 V
+  DELTA:    87 mV
+006 RX: 00 82 16 10 00 00 00 02 00 1f 60 8e 13 e0 12 15 15 15 00 00 00 00 00 00 00 cc b5
+DECODE 0x10:
+  STATUS:   0x00
+  STATE:    0x00
+  PACK:     24.607 V
+  SOC:      0 %
+  TEMP:     21 C / 21 C / 21 C
+  CELL MIN: 2.416 V
+  CELL MAX: 2.503 V
+  DELTA:    87 mV
+
+Startup done.
+
+AUTOMATYCZNY READ-ONLY SCAN
+Komendy: 10 11 12 13 20 A0 A6 A7 AA AB BB CB
+
+CMD 10 / SEQ 0
+TX: 00 00 02 10 00 f7 dc
+RX: <BRAK>
+
+CMD 11 / SEQ 1
+TX: 00 01 02 11 00 94 d9
+RX: <BRAK>
+
+CMD 12 / SEQ 2
+TX: 00 02 02 12 00 31 d6
+RX: 00 82 0a 12 00 00 e1 00 00 50 10 0f 00 37 3f
+
+CMD 13 / SEQ 3
+TX: 00 03 02 13 00 52 d3
+RX: 00 83 20 13 00 00 01 01 00 0f 2b 00 04 48 09 c7 08 11 01 04 01 15 01 00 00 00 00 00 00 00 00 00 00 00 00 ce 71
+
+CMD 20 / SEQ 0
+TX: 00 00 02 20 00 55 6a
+RX: 00 80 03 20 00 00 d4 63
+
+CMD A0 / SEQ 1
+TX: 00 01 02 a0 00 22 fa
+RX: 00 81 2b a0 00 00 00 00 9d 09 70 09 ad 09 81 09 bd 09 9b 09 95 09 c7 09 92 09 9f 09 00 00 f8 2a 00 00 d1 00 d0 00 d4 00 00 00 00 00 00 00 b4 da
+DECODE 0xA0:
+  S01: 2.461 V
+  S02: 2.416 V
+  S03: 2.477 V
+  S04: 2.433 V
+  S05: 2.493 V
+  S06: 2.459 V
+  S07: 2.453 V
+  S08: 2.503 V
+  S09: 2.450 V
+  S10: 2.463 V
+  MIN:   2.416 V
+  MAX:   2.503 V
+  AVG:   2.461 V
+  SUM:   24.608 V
+  DELTA: 87 mV
+
+CMD A6 / SEQ 2
+TX: 00 02 02 a6 00 3f 8b
+RX: 00 82 07 a6 46 00 21 7d 81 44 c7 a8
+
+CMD A7 / SEQ 3
+TX: 00 03 02 a7 00 5c 8e
+RX: 00 83 07 a7 6a 00 19 7d 81 44 51 67
+
+CMD AA / SEQ 0
+TX: 00 00 02 aa 00 e9 1b
+RX: 00 80 03 aa 50 01 3c de
+
+CMD AB / SEQ 1
+TX: 00 01 02 ab 00 8a 1e
+RX: 00 81 03 ab 03 01 3b 76
+
+CMD BB / SEQ 2
+TX: 00 02 02 bb 00 d6 ae
+RX: 00 82 04 bb 00 00 00 e2 76
+
+CMD CB / SEQ 3
+TX: 00 03 02 cb 00 a9 42
+RX: 00 83 03 cb 00 00 1f 5e
+
+========================================================================
+UWAGI:
+- STATUS 0x00, brak bledu 0x25.
+- Pakiet bardzo gleboko rozladowany.
+- Wszystkie 10 sekcji obecne.
+- Najnizsza S02 = 2.416 V.
+- Najwyzsza S08 = 2.503 V.
+- Delta = 87 mV.
+- Plan: podniesienie calego pakietu malym pradem do ok. 30 V,
+  nastepnie ponowny odczyt 0xA0 i porownanie S01-S10.
+========================================================================

@@ -1,0 +1,135 @@
+Case_01 – BT-E6010 nr 1
+BEFORE POWER-CYCLE
+Data: 2026-10-04 16:03:49
+
+Stan przed testem:
+- Oryginalna S10: ok. 0.2 V (martwa sekcja 4P)
+- S1-S9: ok. 4.06 V, bardzo równe
+- S10 zastąpiona tymczasowo pojedynczym ogniwem testowym
+- Po przywróceniu S10 komunikacja UART wróciła
+- BMS: STATUS 0x25, STATE 0x00
+- Znana sekwencja startowa nie otwiera MOSFET
+- Cel kolejnego testu: całkowite odłączenie zasilania BMS na ok. 1 h, następnie ponowny read-only scan i próba otwarcia MOSFET
+
+========================================================================
+ORYGINALNY LOG
+========================================================================
+
+2026-10-04 16:03:49
+COM3 / 9600 8N1
+BYTE_DELAY=0.0025s  RX_WAIT=0.12s
+========================================================================
+
+Startup jak w oryginalnym write.py...
+000 RX: <BRAK>
+001 RX: 00 c0 00 ed c5 00 81 12 30 25 0c 50 0f 37 55 40 a1 49 6a 98 30 fd 43 f3 4c 04 38 e5
+002 RX: 00 82 09 11 25 26 00 a9 01 00 00 64 6c 59
+003 RX: 00 83 16 10 25 00 00 00 00 09 9f 26 20 be 1f 13 13 14 00 00 00 00 00 00 00 f9 4f
+DECODE 0x10:
+  STATUS:   0x25
+  STATE:    0x00
+  PACK:     40.713 V
+  SOC:      0 %
+  TEMP:     19 C / 19 C / 20 C
+  CELL MIN: 4.063 V
+  CELL MAX: 4.115 V
+  DELTA:    52 mV
+004 RX: 00 80 16 10 25 00 00 00 00 09 9f 26 20 be 1f 13 13 14 00 00 00 00 00 00 00 35 a2
+DECODE 0x10:
+  STATUS:   0x25
+  STATE:    0x00
+  PACK:     40.713 V
+  SOC:      0 %
+  TEMP:     19 C / 19 C / 20 C
+  CELL MIN: 4.063 V
+  CELL MAX: 4.115 V
+  DELTA:    52 mV
+005 RX: 00 81 16 10 25 00 00 00 00 08 9f 26 20 be 1f 13 13 14 00 00 00 00 00 00 00 61 77
+DECODE 0x10:
+  STATUS:   0x25
+  STATE:    0x00
+  PACK:     40.712 V
+  SOC:      0 %
+  TEMP:     19 C / 19 C / 20 C
+  CELL MIN: 4.063 V
+  CELL MAX: 4.115 V
+  DELTA:    52 mV
+006 RX: 00 82 16 10 25 00 00 00 00 0b 9f 26 20 be 1f 13 13 14 00 00 00 00 00 00 00 8c 00
+DECODE 0x10:
+  STATUS:   0x25
+  STATE:    0x00
+  PACK:     40.715 V
+  SOC:      0 %
+  TEMP:     19 C / 19 C / 20 C
+  CELL MIN: 4.063 V
+  CELL MAX: 4.115 V
+  DELTA:    52 mV
+
+Startup done.
+
+AUTOMATYCZNY READ-ONLY SCAN
+Komendy: 10 11 12 13 20 A0 A6 A7 AA AB BB CB
+
+CMD 10 / SEQ 0
+TX: 00 00 02 10 00 f7 dc
+RX: <BRAK>
+
+CMD 11 / SEQ 1
+TX: 00 01 02 11 00 94 d9
+RX: <BRAK>
+
+CMD 12 / SEQ 2
+TX: 00 02 02 12 00 31 d6
+RX: 00 82 0a 12 25 00 e1 00 00 90 10 0f 00 cf 81
+
+CMD 13 / SEQ 3
+TX: 00 03 02 13 00 52 d3
+RX: 00 83 20 13 25 00 01 01 00 15 22 00 02 f6 10 21 09 0b 01 08 01 01 01 cf fe ff ff 00 00 00 00 00 00 00 00 3d 8f
+
+CMD 20 / SEQ 0
+TX: 00 00 02 20 00 55 6a
+RX: 00 80 03 20 25 00 5f 3e
+
+CMD A0 / SEQ 1
+TX: 00 01 02 a0 00 22 fa
+RX: 00 81 2b a0 00 00 00 00 e3 0f df 0f e4 0f e2 0f e3 0f e1 0f e2 0f e5 0f e3 0f 14 10 00 00 f8 2a 00 00 c1 00 bb 00 c5 00 00 00 00 00 04 00 d0 67
+DECODE 0xA0:
+  S01: 4.067 V
+  S02: 4.063 V
+  S03: 4.068 V
+  S04: 4.066 V
+  S05: 4.067 V
+  S06: 4.065 V
+  S07: 4.066 V
+  S08: 4.069 V
+  S09: 4.067 V
+  S10: 4.116 V
+  MIN:   4.063 V
+  MAX:   4.116 V
+  AVG:   4.071 V
+  SUM:   40.714 V
+  DELTA: 53 mV
+
+CMD A6 / SEQ 2
+TX: 00 02 02 a6 00 3f 8b
+RX: 00 82 07 a6 b5 00 01 56 29 4c a0 2c
+
+CMD A7 / SEQ 3
+TX: 00 03 02 a7 00 5c 8e
+RX: 00 83 07 a7 9e 01 05 56 29 4c 65 2f
+
+CMD AA / SEQ 0
+TX: 00 00 02 aa 00 e9 1b
+RX: 00 80 03 aa 90 01 96 14
+
+CMD AB / SEQ 1
+TX: 00 01 02 ab 00 8a 1e
+RX: 00 81 03 ab 03 01 3b 76
+
+CMD BB / SEQ 2
+TX: 00 02 02 bb 00 d6 ae
+RX: 00 82 04 bb 00 00 00 e2 76
+
+CMD CB / SEQ 3
+TX: 00 03 02 cb 00 a9 42
+RX: 00 83 03 cb 00 00 1f 5e

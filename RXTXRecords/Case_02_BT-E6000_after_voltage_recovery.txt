@@ -1,0 +1,58 @@
+Case_02 - Shimano BT-E6000
+Odczyt po podniesieniu napiecia + ok. 3 h odpoczynku
+Data: 2026-09-30 20:40:47
+COM3 / 9600 8N1
+BYTE_DELAY=0.0025s  RX_WAIT=0.12s
+========================================================================
+DECODE 0x10 (startup):
+STATUS: 0x00
+STATE:  0x00
+PACK:   30.771-30.776 V
+SOC:    0 %
+TEMP:   21 C / 21 C / 21 C
+CELL MIN: 3.072 V
+CELL MAX: 3.081 V
+DELTA: 9 mV
+
+AUTOMATYCZNY READ-ONLY SCAN
+
+CMD A0 / SEQ 1
+TX: 00 01 02 a0 00 22 fa
+RX: 00 81 2b a0 00 00 00 00 06 0c 00 0c 06 0c 04 0c 09 0c 04 0c 05 0c 09 0c 05 0c 04 0c 6d 00 f8 2a 00 00 d1 00 cf 00 d2 00 00 00 03 00 00 00 ff 36
+
+DECODE 0xA0:
+S01: 3.078 V
+S02: 3.072 V
+S03: 3.078 V
+S04: 3.076 V
+S05: 3.081 V
+S06: 3.076 V
+S07: 3.077 V
+S08: 3.081 V
+S09: 3.077 V
+S10: 3.076 V
+MIN:  3.072 V
+MAX:  3.081 V
+AVG:  3.077 V
+SUM:  30.772 V
+DELTA: 9 mV
+
+Pozostale odpowiedzi:
+CMD 12 RX: 00 82 0a 12 00 00 e1 00 00 50 10 0f 00 37 3f
+CMD 13 RX: 00 83 20 13 00 00 01 01 00 0f 2b 00 04 48 09 c7 08 11 01 04 01 15 01 00 00 00 00 00 00 00 00 00 00 00 00 ce 71
+CMD 20 RX: 00 80 03 20 00 00 d4 63
+CMD A6 RX: 00 82 07 a6 46 00 21 7d 81 44 c7 a8
+CMD A7 RX: 00 83 07 a7 6a 00 19 7d 81 44 51 67
+CMD AA RX: 00 80 03 aa 50 01 3c de
+CMD AB RX: 00 81 03 ab 03 01 3b 76
+CMD BB RX: 00 82 04 bb 00 00 00 e2 76
+CMD CB RX: 00 83 03 cb 00 00 1f 5e
+
+========================================================================
+POROWNANIE:
+17:13 przed recovery: PACK 24.608 V / MIN 2.416 V / MAX 2.503 V / DELTA 87 mV
+20:40 po recovery i ~3 h odpoczynku: PACK 30.772 V / MIN 3.072 V / MAX 3.081 V / DELTA 9 mV
+
+STATUS nadal 0x00. Brak bledu 0x25. SOC nadal 0%.
+Nastepny test: oryginalna ladowarka Shimano.
+========================================================================
